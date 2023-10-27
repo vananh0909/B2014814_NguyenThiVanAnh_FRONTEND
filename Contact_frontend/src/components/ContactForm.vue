@@ -54,7 +54,7 @@
                 <strong>Liên hệ yêu thích</strong>
             </label>
         </div>
-        <div class="form-group">
+        <div class="form-group"> 
             <button class="btn btn-primary">Lưu</button>
             <button
                 v-if="contactLocal._id"
